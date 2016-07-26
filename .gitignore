@@ -1,8 +1,4 @@
 *.meta
 *.info
 Unity_alpha_cartographer/Temp/
-Unity_alpha_cartographer/Library/metadata/00/00000000000000004000000000000000
-Unity_alpha_cartographer/Library/CurrentLayout.dwlt
-*.dwlt
-Unity_alpha_cartographer/Library/assetDatabase3
-*.asset
+Unity_alpha_cartographer/Library/
